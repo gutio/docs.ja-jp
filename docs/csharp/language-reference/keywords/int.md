@@ -49,7 +49,7 @@ ms.lasthandoff: 03/24/2017
  
 `int` 変数を宣言し、10 進リテラル、16 進リテラル、または (C# 7 以降) バイナリ リテラルを割り当てることによって初期化できます。  整数リテラルが `int` の範囲外である場合は (つまり、<xref:System.Int32.MinValue?displayProperty=fullName> より小さいか、<xref:System.Int32.MaxValue?displayProperty=fullName> より大きい場合)、コンパイル エラーが発生します。 
 
-次の例では、整数 16,342 を 10 進リテラル、16 進リテラル、バイナリ リテラルで表したものが、`int` 値に割り当てられています。  
+次の例では、整数 90,946 を 10 進リテラル、16 進リテラル、バイナリ リテラルで表したものが、`int` 値に割り当てられています。  
   
 [!code-cs[int](../../../../samples/snippets/csharp/language-reference/keywords/numeric-literals.cs#Int)]  
 
